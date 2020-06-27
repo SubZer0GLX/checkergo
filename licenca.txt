@@ -1,0 +1,3 @@
+Premium=Tudo
+Free=Tudo
+Elite=Tudo
