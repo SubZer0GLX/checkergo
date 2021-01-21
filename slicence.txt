@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "server1": "Zero Desenvolvimento",
+    "server2": "SVRP",
+
+  },
+  "version": "1.0"
+}
