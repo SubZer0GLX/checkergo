@@ -1,8 +1,7 @@
 {
-  "servers": {
-    "server1": "Zero Desenvolvimento",
-    "server2": "SVRP",
-
-  },
+  "servers": [
+    "allowed"
+    "unallowed"
+  ],
   "version": "1.0"
 }
